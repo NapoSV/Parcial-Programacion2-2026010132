@@ -36,3 +36,6 @@ out/
 bin/
 build/
 target/
+
+# Archivos de instrucciones
+indicaciones.md
